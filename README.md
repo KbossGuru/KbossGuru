@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KbossGuru
 - 👀 I’m interested in Data 
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Data Analysis projects
+- 🌱 I’m a data analyst and data scientist
+- 💞️ I’m looking to collaborate on Data Analysis and machine learning projects
 - 📫 How to reach me adewuyi136@gmail.com
 
 <!---
