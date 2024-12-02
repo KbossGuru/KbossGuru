@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data 
 - 🌱 I’m a data analyst and data engineer
 - 💞️ I’m open to data analysis and data engineering gigs and roles
-- 📫 How to reach me adewuyi136@gmail.com
+- 📫 How to reach me
 
 <!---
 KbossGuru/KbossGuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
